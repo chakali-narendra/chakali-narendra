@@ -22,14 +22,14 @@
 
 I'm a **passionate Java developer and fresher** ready to make an impact in the world of software development. I love crafting clean, efficient code and building web applications that solve real-world problems. With a strong foundation in **Core Java, Advanced Java, and full-stack web development**, I'm constantly exploring new technologies and best practices.
 
-💡 **What drives me:** Learning, problem-solving, and connecting with the developer community through content creation!
+💡 **What drives me:** Continuous learning, solving challenging problems, and becoming an expert software engineer!
 
 ### 🎯 Fun Facts About Me:
 
 - 🔥 **Code Enthusiast** - I live and breathe Java and web development
-- 🎬 **Content Creator** - Share my learning journey on Instagram with my tech community
-- 📚 **Continuous Learner** - Always exploring Spring Boot, Hibernate, and modern web frameworks
+- 📚 **Lifelong Learner** - Always exploring Spring Boot, Hibernate, and modern web frameworks
 - 💪 **Problem Solver** - Love tackling challenging coding problems and debugging mysteries
+- 🎯 **Goal-Oriented** - Committed to building scalable and efficient applications
 
 ---
 
@@ -63,7 +63,7 @@ I'm a **passionate Java developer and fresher** ready to make an impact in the w
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chakali-narendra-616a652a4/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chakali-narendra.github.io/My_Portfolio/)
-[![Instagram](https://img.shields.io/badge/Instagram-550%2B%20Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lovely_narendra_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lovely_narendra_)
 
 </div>
 
@@ -95,7 +95,7 @@ I'm a **passionate Java developer and fresher** ready to make an impact in the w
 Excited to:
 - ✨ Contribute to open-source projects
 - 🚀 Build production-ready applications
-- 📖 Share knowledge with the developer community
+- 📖 Learn from the developer community
 - 🏆 Grow as a software engineer
 
 ---
@@ -110,7 +110,7 @@ Excited to:
 |----------|------|
 | 💼 LinkedIn | [chakali-narendra](https://www.linkedin.com/in/chakali-narendra-616a652a4/) |
 | 🌐 Portfolio | [My Website](https://chakali-narendra.github.io/My_Portfolio/) |
-| 📸 Instagram | [@_lovely_narendra_](https://www.instagram.com/_lovely_narendra_) - 550+ Followers |
+| 📸 Instagram | [@_lovely_narendra_](https://www.instagram.com/_lovely_narendra_) |
 | 💻 GitHub | [@chakali-narendra](https://github.com/chakali-narendra) |
 
 </div>
