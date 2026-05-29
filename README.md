@@ -16,7 +16,7 @@
 
 ## 📝 About Me
 
-I'm a **passionate Java developer and fresher** ready to make an impact in the world of software development. I love crafting clean, efficient code and building web applications that solve real-world problems. With a strong foundation in **Core Java, Advanced Java, and full-stack web development**, I'm constantly exploring new technologies and best practices.
+I'm **Chakali Narendra**, a **passionate Java developer and fresher** ready to make an impact in the world of software development. I love crafting clean, efficient code and building web applications that solve real-world problems. With a strong foundation in **Core Java, Advanced Java, and full-stack web development**, I'm constantly exploring new technologies and best practices.
 
 💡 **What drives me:** Continuous learning, solving challenging problems, and becoming an expert software engineer!
 
@@ -63,7 +63,7 @@ I'm a **passionate Java developer and fresher** ready to make an impact in the w
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chakali-narendra-616a652a4/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chakali-narendra.github.io/My_Portfolio/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lovely_narendra_)
+[![Instagram](https://img.shields.io/badge/Instagram-550%2B-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lovely_narendra_)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lovely.narendra.75491)
 
 </div>
@@ -128,5 +128,9 @@ Excited to:
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="line" />
+</div>
 
 *Last Updated: 2026 | Keep Learning, Keep Growing! 🚀*
