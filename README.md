@@ -14,8 +14,6 @@
 
 ## 🎯 About Me
 
-<img align="right" width="250px" src="https://media.giphy.com/media/3o7TKVm5AHxvIpKuEU/giphy.gif" alt="Coding Gif" />
-
 > **🌟 I'm a passionate Java Developer & Fresher** ready to revolutionize the world of software development!
 
 I craft **clean, efficient code** and build **web applications** that solve real-world problems. With a strong foundation in **Core Java, Advanced Java, and full-stack web development**, I'm constantly pushing boundaries and exploring cutting-edge technologies.
@@ -82,8 +80,8 @@ I craft **clean, efficient code** and build **web applications** that solve real
 ## 📊 GitHub Statistics & Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chakali-narendra&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=FF6B9D&icon_color=1F6FEB" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=chakali-narendra&theme=radical&background=0d1117&currStreakLabel=FF6B9D" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chakali-narendra&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=FF6B9D&icon_color=1F6FEB&text_color=ffffff" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=chakali-narendra&theme=radical&background=0d1117&currStreakLabel=FF6B9D&fire=FF6B9D" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -95,7 +93,7 @@ I craft **clean, efficient code** and build **web applications** that solve real
 ## 🏆 GitHub Trophies & Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chakali-narendra&theme=radical&row=2&column=3&margin-w=15&margin-h=15&no-bg=false&no-frame=false" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chakali-narendra&theme=radical&row=1&column=6&margin-w=15&margin-h=15&no-bg=false&no-frame=false" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -103,7 +101,7 @@ I craft **clean, efficient code** and build **web applications** that solve real
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chakali-narendra&theme=radical&bg_color=0d1117&color=FF6B9D&line=1F6FEB&point=FF6B9D&hide_border=false" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chakali-narendra&theme=radical&bg_color=0d1117&color=FF6B9D&line=1F6FEB&point=FF6B9D&hide_border=false" alt="Activity Graph" />
 </div>
 
 ---
