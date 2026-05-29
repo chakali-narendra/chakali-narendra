@@ -1,4 +1,16 @@
-# <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=500&color=FF6B9D&center=true&vCenter=true&width=1000&lines=👋+Hey+there,+I'm+Chakali+Narendra!;💻+Java+Developer+|+Fresher;🚀+Building+Amazing+Web+Applications;✨+Passionate+About+Clean+Code" alt="Typing SVG" /></div>
+# 👋 Hey there, I'm Chakali Narendra!
+
+<div align="center">
+  <h1 style="color: #FF6B9D; font-size: 2.5em; margin: 20px 0;">
+    💻 Java Developer | Fresher
+  </h1>
+  <h2 style="color: #1F6FEB; font-size: 1.8em; margin: 10px 0;">
+    🚀 Building Amazing Web Applications
+  </h2>
+  <p style="color: #FF6B9D; font-size: 1.2em;">
+    ✨ Passionate About Clean Code ✨
+  </p>
+</div>
 
 ---
 
@@ -177,7 +189,11 @@ If you find this profile inspiring, consider **starring** my repositories!
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=16&duration=4000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting+my+profile!+😊;Happy+Coding!+🚀;Keep+Learning,+Keep+Growing!+📚" alt="Closing Message" />
+
+## 👏 Thank You For Visiting!
+
+**Happy Coding!** 🚀 | **Keep Learning, Keep Growing!** 📚 | **Always Evolving!** ✨
+
 </div>
 
 *Last Updated: 2026 | 🎯 Always Evolving | ✨ Premium Profile*
