@@ -68,6 +68,7 @@ I'm a **passionate Java developer and fresher** ready to make an impact in the w
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chakali-narendra-616a652a4/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chakali-narendra.github.io/My_Portfolio/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lovely_narendra_)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lovely.narendra.75491)
 
 </div>
 
@@ -115,6 +116,7 @@ Excited to:
 | 💼 LinkedIn | [chakali-narendra](https://www.linkedin.com/in/chakali-narendra-616a652a4/) |
 | 🌐 Portfolio | [My Website](https://chakali-narendra.github.io/My_Portfolio/) |
 | 📸 Instagram | [@_lovely_narendra_](https://www.instagram.com/_lovely_narendra_) |
+| 📱 Facebook | [lovely.narendra](https://www.facebook.com/lovely.narendra.75491) |
 | 💻 GitHub | [@chakali-narendra](https://github.com/chakali-narendra) |
 
 </div>
