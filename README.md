@@ -1,129 +1,134 @@
 # 👋 Hey there, I'm Chakali Narendra!
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=chakali-narendra&label=PROFILE+VIEWS&color=1F6FEB&style=for-the-badge" alt="Profile Views" />
-
-  <br />
-
-  <img src="https://raw.githubusercontent.com/AnandChowdhary/hover-cards/main/assets/wave.gif" width="100px" alt="Waving Hand" />
-
-  <br />
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1F6FEB&center=true&vCenter=true&width=700&lines=💻+Java+Backend+Developer;🚀+Full+Stack+Enthusiast;✨+Building+Amazing+Web+Apps;🎯+Turning+Coffee+Into+Clean+Code" alt="Typing SVG" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=chakali-narendra&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
-
-<br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="animated line" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="25px" alt="Wave">
+</div>
+@@ -9,7 +13,7 @@
+## 🚀 Welcome to My Digital Space
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Java+Developer+|+Fresher;Building+Web+Applications;Passionate+About+Clean+Code;Always+Learning+%26+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Java+Developer+|+Fresher;Building+Web+Applications;Passionate+About+Clean+Code;Always+Learning+%26+Growing" alt="Typing SVG" />
 </div>
 
 ---
+@@ -23,55 +27,65 @@ I'm a **passionate Java developer and fresher** ready to make an impact in the w
+### 🎯 Fun Facts About Me:
 
-## 👨‍💻 SECTION B: ABOUT ME
-
-I am a highly motivated and confident **Java Developer** dedicated to crafting efficient, scalable, and beautifully engineered web applications. Combining strong core programming foundations with frontend execution, I love bringing complex software architectures to life. Beyond writing logic, I am an active **Content Creator**, sharing insights, tutorials, and tech trends across **YouTube, Medium, and Instagram** to help cultivate a thriving developer community.
-
-### ⚡ Quick Bits About Me:
-- 🚀 **Driven by Innovation:** Constantly engineering next-gen platforms, from robust food delivery web applications to interactive state management tools.
-- 🎓 **Continuous Explorer:** Deeply focused on evolving structural architectures, mastering cutting-edge Spring patterns, and refining REST API models.
-- 🎥 **Tech Voice:** Creating engaging content online to bridge the gap between complex logic and clean engineering concepts.
-- 🎯 **Core Philosophy:** Dedicated to writing clean, maintainable code that speaks for itself.
+- 🔥 **Code Enthusiast** - I live and breathe Java and web development
+- 🎬 **Content Creator** - Share my learning journey on Instagram with my tech community (550+ followers!)
+- 🎬 **Content Creator** - Share my learning journey on Instagram with my tech community
+- 📚 **Continuous Learner** - Always exploring Spring Boot, Hibernate, and modern web frameworks
+- 💪 **Problem Solver** - Love tackling challenging coding problems and debugging mysteries
 
 ---
 
-## 🛠️ SECTION C: TECH STACK
+## 🛠️ Tech Stack & Skills
 
+### Backend Development
 ### 🔙 Backend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring_Core-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Core" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
-  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" alt="JDBC" />
-  <img src="https://img.shields.io/badge/JEE-007396?style=for-the-badge&logo=java&logoColor=white" alt="JEE" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Core](https://img.shields.io/badge/Spring%20Core-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
+![JEE](https://img.shields.io/badge/JEE-007396?style=for-the-badge&logo=java&logoColor=white)
 
+### Frontend Development
 ### 🎨 Frontend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white" alt="JSP" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
 
-### 🗄️ Tools & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
+### Database & Tools
+### 🛠️ Tools & Database
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🌐 SECTION D: SOCIAL MEDIA LINKS
+## 🌐 Connect With Me
 
 <div align="center">
 
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://www.linkedin.com/in/chakali-narendra-616a652a4/)
+[<img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />](https://chakali-narendra.github.io/My_Portfolio/)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />](https://www.instagram.com/_lovely_narendra_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chakali-narendra-616a652a4/)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
-[![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-550%2B-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lovely_narendra_)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chakali-narendra.github.io/My_Portfolio/)
+[![Instagram](https://img.shields.io/badge/Instagram-550%2B%20Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lovely_narendra_)
 
 </div>
 
 ---
 
-## 📊 SECTION E: GITHUB STATS
+## 📊 GitHub Statistics
 
+**Instagram:** 550+ Followers 🎉
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chakali-narendra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=1F6FEB&icon_color=6DB33F&text_color=ffffff" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=chakali-narendra&theme=tokyonight&background=0d1117&currStreakLabel=1F6FEB&fire=6DB33F&sideLabels=ffffff" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chakali-narendra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=chakali-narendra&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-<br/>
-
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakali-narendra&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=1F6FEB&text_color=ffffff" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 SECTION F: GITHUB TROPHIES
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chakali-narendra&theme=onedark&row=1&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="GitHub Trophies" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakali-narendra&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
 
-## 🤝 SECTION H: LET'S CONNECT
+## 📊 My GitHub Stats
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chakali-narendra&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakali-narendra&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chakali-narendra&theme=darkhub&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+---
+@@ -86,15 +100,35 @@ Excited to:
+
+---
+
+## 💬 Let's Connect!
 
 <div align="center">
 
-### 📩 Drop me a line, check out my platforms, or just say hello!
+**Feel free to reach out for collaborations, discussions, or just to say hi!** 👋
 
-| Platform | Channel / Resource Link |
-| :---: | :---: |
-| 💼 **Professional LinkedIn** | [Connect on LinkedIn](https://www.linkedin.com/in/chakali-narendra-616a652a4/) |
-| 🌐 **Personal Portfolio** | [Explore My Projects](https://chakali-narendra.github.io/My_Portfolio/) |
-| 🎥 **YouTube Channel** | [Watch My Content](https://www.youtube.com/) |
-| 📝 **Medium Blog** | [Read My Articles](https://medium.com/) |
-| 📸 **Instagram Profile** | [Follow Me On Instagram](https://www.instagram.com/_lovely_narendra_) |
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | [chakali-narendra](https://www.linkedin.com/in/chakali-narendra-616a652a4/) |
+| 🌐 Portfolio | [My Website](https://chakali-narendra.github.io/My_Portfolio/) |
+| 📸 Instagram | [@_lovely_narendra_](https://www.instagram.com/_lovely_narendra_) - 550+ Followers |
+| 💻 GitHub | [@chakali-narendra](https://github.com/chakali-narendra) |
 
-<br />
+</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="animated line" />
+---
 
-### ✨ Professional Closing Line
-*"Striving to engineer tomorrow's scalable web solutions, optimizing line by line, keeping code simple and logic solid."*
+<div align="center">
+  
+### 💬 Let's Connect!
+Feel free to reach out for collaborations, discussions, or just to say hi! 👋
 
+**"Code is poetry, debugging is the art of revision."** 💻✨
+### "Code is poetry, debugging is the art of revision." 💻✨
+
+*Always learning, always growing. Let's build something amazing together!* 🚀
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="line" />
 </div>
