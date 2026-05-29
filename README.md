@@ -1,7 +1,6 @@
 # 👋 Hey there, I'm Chakali Narendra!
 
 <div align="center">
-  <!-- Dynamic Typing Animation Banner -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1F6FEB&center=true&vCenter=true&width=700&lines=💻+Java+Backend+Developer;🚀+Full+Stack+Enthusiast;✨+Passionate+About+Clean+Code;🎯+Fresher+Ready+to+Deliver+Value" alt="Typing SVG" />
   </a>
@@ -10,7 +9,6 @@
     <a href="https://chakali-narendra.github.io/My_Portfolio/"><strong>🌐 Explore My Portfolio Website »</strong></a>
   </p>
 
-  <!-- Visitor Counter Badge -->
   <img src="https://komarev.com/ghpvc/?username=chakali-narendra&label=PROFILE+VIEWS&color=1F6FEB&style=for-the-badge" alt="Profile Views" />
 </div>
 
@@ -28,12 +26,11 @@
   <tr>
     <td width="60%" valign="top">
       <p>I am a highly motivated <strong>Java Developer</strong> focused on building robust, scalable, and efficient web applications. With a strong foundation in Object-Oriented Programming (OOP) and modern enterprise frameworks, I love transforming complex business logic into clean, structured code.</p>
-      
       <h3>⚡ Quick Bits:</h3>
       <ul>
         <li>💼 <strong>Seeking:</strong> Immediate Entry-Level / Graduate Software Engineer Roles.</li>
         <li>🌱 <strong>Current Focus:</strong> Deepening enterprise patterns with Spring Boot, Hibernate, and RESTful API design.</li>
-        <li>🎯 <strong>Philosophy:</strong> "Write code as if the person maintaining it is a violent psychopath who knows where you live." (Clean code matters!)</li>
+        <li>🎯 <strong>Philosophy:</strong> "Write code as if the person maintaining it is a violent psychopath who knows where you live."</li>
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
@@ -100,7 +97,6 @@
 <br/>
 
 <div align="center">
-  <!-- GitHub Activity Graph Grid -->
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chakali-narendra&theme=react-dark&bg_color=0d1117&color=6DB33F&line=1F6FEB&point=ffffff&hide_border=true" alt="Activity Graph" />
 </div>
 
@@ -125,9 +121,9 @@
 
 <br />
 
-| 📩 Business Email | 🌐 Personal Portfolio | 💼 Professional LinkedIn |
-| :---: | :---: | :---: |
-| [Send a Message](mailto:your-email@example.com) | [Visit Website](https://chakali-narendra.github.io/My_Portfolio/) | [Connect on LinkedIn](https://www.linkedin.com/in/chakali-narendra-616a652a4/) |
+| 🌐 Personal Portfolio | 💼 Professional LinkedIn |
+| :---: | :---: |
+| [Visit Website](https://chakali-narendra.github.io/My_Portfolio/) | [Connect on LinkedIn](https://www.linkedin.com/in/chakali-narendra-616a652a4/) |
 
 </div>
 
