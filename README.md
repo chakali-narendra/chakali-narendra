@@ -4,16 +4,12 @@
   <img src="https://komarev.com/ghpvc/?username=chakali-narendra&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="25px" alt="Wave">
-</div>
-
 ---
 
 ## 🚀 Welcome to My Digital Space
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Java+Developer+|+Fresher;Building+Web+Applications;Passionate+About+Clean+Code;Always+Learning+%26+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Java+Developer+|+Fresher;Building+Web+Applications;Passionate+About+Clean+Code;Always+Learning+%26+Growing" alt="Typing SVG" />
 </div>
 
 ---
@@ -132,9 +128,5 @@ Excited to:
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="line" />
-</div>
 
 *Last Updated: 2026 | Keep Learning, Keep Growing! 🚀*
